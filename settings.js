@@ -19,10 +19,10 @@ global.APIKeys = {
 
 // Other
 global.owner = ['62895338334350','62895338334450','6281575886399']
-global.premium = ['6281575886399']
+global.premium = ['62895338334350']
 global.ownernomer = '62895338334350'
-global.ownername = 'Yuuzy_'
-global.botname = 'Chika-Md'
+global.ownername = 'V7 Yuuzy_'
+global.botname = 'Yuuzy-Md'
 global.footer = 'RiychDwayne'
 global.ig = 'https://instagram.com/riychdwayne'
 global.email = 'riychh.20@gmail.com'
