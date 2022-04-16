@@ -14,7 +14,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': '4AD2E985D2', // Ambil apikey di zenz biar fitur yg make api work
+	'https://zenzapi.xyz': '716349F07F9D', // Ambil apikey di zenz biar fitur yg make api work
 }
 
 // Other
